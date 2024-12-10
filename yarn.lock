@@ -4502,6 +4502,11 @@ path-type@^4.0.0:
   resolved "https://registry.yarnpkg.com/path-type/-/path-type-4.0.0.tgz#84ed01c0a7ba380afe09d90a8c180dcd9d03043b"
   integrity sha512-gDKb8aZMDeD/tZWs9P6+q0J9Mwkdl6xMV8TjnGP3qJVJ06bdMgkbBlLU8IdfOsIsFz2BW1rNVT3XuNEl8zPAvw==
 
+pdf-to-printer@^5.6.0:
+  version "5.6.0"
+  resolved "https://registry.yarnpkg.com/pdf-to-printer/-/pdf-to-printer-5.6.0.tgz#31916ba92e834b8a112a3c96a7aa8074c3fab24d"
+  integrity sha512-yPZoLWFjbjnHoYNVLU8fyoVA5wPMmT6U4+W/ip+sTDZdt5hwcVuQSVe96rrqRB0kEaKznNcLU7BXSo42R7AHVQ==
+
 pend@~1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/pend/-/pend-1.2.0.tgz#7a57eb550a6783f9115331fcf4663d5c8e007a50"
