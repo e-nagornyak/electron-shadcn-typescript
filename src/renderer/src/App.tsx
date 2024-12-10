@@ -2,12 +2,12 @@ import { Button } from '@/components/ui/button'
 import { Card } from '@/components/ui/card'
 
 function App(): JSX.Element {
-  const getPrinters = () => {
-    window.api.getPrinters()
+  const getPrinters = async () => {
+    ;(window.api as any).getPrinters()
   }
 
   const getPrintersNew = () => {
-    window.api.getPrintersNew()
+    ;(window.api as any).getPrintersNew()
   }
 
   return (
